@@ -1,18 +1,8 @@
 <!--heading-->
-# heading 1
-## heading 2
+# hello
 ___
-#shift+command+g : 탐색
 
-this is **bold** *text*
-
-~~strike~~~
-
-* a
-* b
-
-click[here](markdown.md/) markdown.md
-
+**열심히 하겠습니다**
 
 
 <!---
